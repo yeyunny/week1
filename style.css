@@ -1,0 +1,23 @@
+Ul li{
+	display: inline-block;
+	margin: 10px;
+}
+.welcome{
+	font-style: italic;
+	font-family: 'Dancing Script', cursive;
+}
+.hello{
+	font-style: italic;
+	font-family: 'IBM Plex Sans KR', sans-serif;
+}
+Img{
+	width: 280px;
+	height: 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+Body{
+	text-align: center;
+	background-image: url("/Users/yunye/Downloads/jpg2png/cloud.png");
+}
